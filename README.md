@@ -9,3 +9,8 @@ Lessons
 2. Exploratory Data Analysis
 3. Single Linear Regression
 4. Multiple Linear Regression
+
+----Midterm Exam----
+
+5. K - Nearest Neighbors
+6. Decision Trees

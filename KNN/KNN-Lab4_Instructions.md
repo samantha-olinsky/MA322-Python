@@ -17,8 +17,11 @@ Example: If you imported your data set and assigned the name df to it, you can c
 For instance,   df_train = df.iloc[3:300,:-2] will subset df and give me only rows with the indexes 3 to 300, with every column except the last 2, and assign the new subsetted data set to the name df_train, while preserving the original dataset, df. 
 
 Training data set without the target feature
+
 Testing data set without the target feature
+
 Training data set that includes ONLY the target feature
+
 Testing data set that includes ONLY the target feature
 
 6.	With the Training and Testing set successfully split into the 4 objects you created in the previous step, you can now use the kNN algorithm to predict the classifications, i.e., the diagnoses of the Testing examples. You need a few items here:
